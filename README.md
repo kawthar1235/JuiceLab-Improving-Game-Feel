@@ -255,7 +255,7 @@ The Ball Trail is configured using Unity's Trail Renderer component.
 
 **Video Duration:** 2–3 minutes
 
-**Video Link:** [Insert accessible demonstration video URL]
+**Video Link:** https://drive.google.com/file/d/1MI-UpSiUIW1GMfQheLn63XYQwFR1zlV8/view?usp=sharing
 
 The demonstration includes:
 
