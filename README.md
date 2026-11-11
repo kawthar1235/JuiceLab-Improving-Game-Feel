@@ -6,8 +6,8 @@
 
 ## 1. Student Information
 
-- **Student Name:** [Your Full Name]
-- **Student ID:** [Your Student ID]
+- **Student Name:** kawthar alkhawajah
+- **Student ID:** 202168810
 - **Unity Version:** 6000.5.10f1
 - **Project:** JuiceLab — Brick Breaker
 - **Assignment Type:** Individual
